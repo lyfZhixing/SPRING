@@ -28,3 +28,8 @@ hs_err_pid*
 *.iws
 *.iml
 *.ipr
+compiler.xml
+encodings.xml
+misc.xml
+vcs.xml
+workspace.xml
