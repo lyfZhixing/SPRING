@@ -1,7 +1,6 @@
 # 依赖注入    
 在spring环境下，控制反转（IOC）和依赖注入（DI）是等同的概念，控制反转通过依赖注入来实现。依赖注入的主要目的是解耦，体现一种“组合”的思想。
 springIOC容器（ApplicationContext）负责创建bean。   
-关于配置，Spring4.x起，官方推荐java配置，可以完全替代xml配置。    
 ## Bean的声明与注入    
 > 声明：
 - @Component组件，没有明确的角色
